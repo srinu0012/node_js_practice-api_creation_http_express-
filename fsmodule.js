@@ -1,6 +1,6 @@
 let fs=require("fs")
-// const { Module } = require("module")
-// fs.readFile("tes.txt",(err,data)=>{
+
+// fs.readFile("test.txt",(err,data)=>{
 //     // console.log(err)
 //     if(err){
 //         // console.log(err)
@@ -71,6 +71,3 @@ let fs=require("fs")
 
 
 
-// module.exports={
-//     x:10
-// }
